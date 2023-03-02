@@ -1,0 +1,10 @@
+First Name: John
+Last Name: Smith
+Total Number of Adult Passengers: 2
+Total Number of Child Passengers: 1
+Total Expenses: 1900.0
+First Name: Mary
+Last Name: Anne
+Total Number of Adult Passengers: 2
+Total Number of Child Passengers: 1
+Total Expenses: 1900.0
